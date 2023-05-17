@@ -1,5 +1,5 @@
 # pix2pix in PyTorch
-A pytorch implementation of pix2pix paired images translation with CycleGANs.\
+A pytorch implementation of pix2pix paired images translation with cGANs.\
 Implement based on the paper "Image-to-Image Translation with Conditional Adversarial Networks".
 
 # Training results
