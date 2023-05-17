@@ -1,5 +1,5 @@
 # pix2pix in PyTorch
-A pytorch implementation of pix2pix paired facade images translation with CycleGANs.\n
+A pytorch implementation of pix2pix paired facade images translation with CycleGANs.\
 Implement based on the paper "Image-to-Image Translation with Conditional Adversarial Networks".
 
 # Training result on facade layout data
